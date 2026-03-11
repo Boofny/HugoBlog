@@ -10,4 +10,15 @@ featured_image = "https://miro.medium.com/v2/resize:fit:1000/0*YISbBYJg5hkJGcQd.
 here is thet thig
 <!--more-->
 
-fuck you
+### Here is some code 
+
+```go
+package main
+
+import "fmt"
+
+func main(){
+  fmt.Println("Hello slime ball!")
+}
+
+```
